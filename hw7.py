@@ -9,6 +9,7 @@ Created on Thu Nov 11 19:34:23 2021
 import numpy as np
 import pandas as pd
 import altair as alt
+import sklearn
 from sklearn.datasets import make_blobs
 from sklearn.cluster import KMeans
 import streamlit as st
